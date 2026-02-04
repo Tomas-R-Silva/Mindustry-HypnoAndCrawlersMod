@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Effects Mod"
+
+#the internal name of your mod
+name: "hypno mod"
+
+#
+author: "Gonçalo Guerreiro & Tomás Silva"
+
+#the fully qualified main class of the mod
+main: "hypno.HypnoMod"
+
+#the mod description as seen in the mod dialog
+description: "Adds hypnotizing effects, bullets and turrets."
+
+#the mod version
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 150
+
+#this is a java mod
+java: true
