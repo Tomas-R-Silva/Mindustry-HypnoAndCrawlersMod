@@ -24,6 +24,6 @@ Running the Mod During Development
 
 To run Mindustry with the mod during development, use:
 
-./gradlew desktop:
+./gradlew :desktop:run
 
 Note: Run ./gradlew build from the mod's directory, not from the main Mindustry project directory.
